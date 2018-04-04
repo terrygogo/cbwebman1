@@ -1,0 +1,4 @@
+07/25/2015 14:03:35 11158 fcp2d Starting
+07/25/2015 14:04:59 11709 fcp2d cantaloop:/home/DATA/user01//passwd -> TERRYmac:C:\Users\terry\Desktop\passwd (141/141 bytes) transfer requested [user01@10.211.55.3]
+07/25/2015 14:04:59 11709 fcp2d cantaloop:/home/DATA/user01//passwd -> TERRYmac:C:\Users\terry\Desktop\passwd (141/141 bytes) transfer completed (0.00 sec) [user01@10.211.55.3]
+07/25/2015 14:05:08 11768 fcp2d Child Aborted (11: cantaloop:/home/DATA/user01/Thumbs.db: fchown error 1)

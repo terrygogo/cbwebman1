@@ -1,0 +1,5 @@
+06/15/2016 19:06:38 11985 Switched Log File
+06/15/2016 19:06:38 11760 fcp2d cantaloop:/var/log/JionLab/fcp2/fcp2d.perf -> TERRYmac:C:\Users\terry\AppData\Local\Temp\JionLab\fcp2d.perf (21645/21645 bytes) transfer requested [JionLab@10.211.55.3]
+06/15/2016 19:06:38 11760 fcp2d cantaloop:/var/log/JionLab/fcp2/fcp2d.perf -> TERRYmac:C:\Users\terry\AppData\Local\Temp\JionLab\fcp2d.perf (21645/21645 bytes) transfer completed (0.00 sec) [JionLab@10.211.55.3]
+06/15/2016 19:06:44 11797 fcp2d cantaloop:/var/log/JionLab/fcp2/sockd.log -> TERRYmac:C:\Users\terry\AppData\Local\Temp\JionLab\sockd.log (110317/110317 bytes) transfer requested [JionLab@10.211.55.3]
+06/15/2016 19:06:44 11797 fcp2d cantaloop:/var/log/JionLab/fcp2/sockd.log -> TERRYmac:C:\Users\terry\AppData\Local\Temp\JionLab\sockd.log (110317/110317 bytes) transfer completed (0.03 sec) [JionLab@10.211.55.3]

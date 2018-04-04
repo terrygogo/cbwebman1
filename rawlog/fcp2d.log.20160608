@@ -1,0 +1,7 @@
+06/08/2016 19:49:03 11985 Switched Log File
+06/08/2016 19:49:03 23124 fcp2d cantaloop:/var/log/JionLab/fcp2/sockd.log -> TERRYmac:C:\Users\terry\AppData\Local\Temp\JionLab\sockd.log (110317/110317 bytes) transfer requested [JionLab@10.211.55.3]
+06/08/2016 19:49:03 23124 fcp2d cantaloop:/var/log/JionLab/fcp2/sockd.log -> TERRYmac:C:\Users\terry\AppData\Local\Temp\JionLab\sockd.log (110317/110317 bytes) transfer completed (0.03 sec) [JionLab@10.211.55.3]
+06/08/2016 19:49:18 23211 fcp2d cantaloop:/var/log/JionLab/fcp2/fcp2d.perf -> TERRYmac:C:\Users\terry\AppData\Local\Temp\JionLab\fcp2d.perf (5590/5590 bytes) transfer requested [JionLab@10.211.55.3]
+06/08/2016 19:49:18 23211 fcp2d cantaloop:/var/log/JionLab/fcp2/fcp2d.perf -> TERRYmac:C:\Users\terry\AppData\Local\Temp\JionLab\fcp2d.perf (5590/5590 bytes) transfer completed (0.00 sec) [JionLab@10.211.55.3]
+06/08/2016 20:14:36 541 fcp2d cantaloop:/var/log/JionLab/fcp2/sockd.log -> TERRYmac:C:\Users\terry\AppData\Local\Temp\JionLab\sockd.log (110317/110317 bytes) transfer requested [JionLab@10.211.55.3]
+06/08/2016 20:14:36 541 fcp2d cantaloop:/var/log/JionLab/fcp2/sockd.log -> TERRYmac:C:\Users\terry\AppData\Local\Temp\JionLab\sockd.log (110317/110317 bytes) transfer completed (0.06 sec) [JionLab@10.211.55.3]

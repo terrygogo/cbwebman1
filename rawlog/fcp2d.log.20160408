@@ -1,0 +1,7 @@
+04/08/2016 14:20:47 18738 Switched Log File
+04/08/2016 14:20:47 18369 fcp2d cantaloop:/var/log/JionLab/fcp2/fcp2d.perf -> TERRYmac:C:\Users\terry\AppData\Local\Temp\JionLab\fcp2d.perf (55900/55900 bytes) transfer requested [JionLab@10.211.55.3]
+04/08/2016 14:20:47 18369 fcp2d cantaloop:/var/log/JionLab/fcp2/fcp2d.perf -> TERRYmac:C:\Users\terry\AppData\Local\Temp\JionLab\fcp2d.perf (55900/55900 bytes) transfer completed (0.05 sec) [JionLab@10.211.55.3]
+04/08/2016 14:24:28 19713 fcp2d Child Aborted (4: cantaloop:/var/log/JionLab/fcp2/fbrdg_nat.conf: file doesn't exist)
+04/08/2016 14:24:36 19758 fcp2d Child Aborted (5: cantaloop:/var/log/JionLab/fcp2/fbrdg_nat.conf: file doesn't exist)
+04/08/2016 14:24:50 19849 fcp2d cantaloop:/var/log/JionLab/fcp2/sockd.log -> TERRYmac:C:\Users\terry\AppData\Local\Temp\JionLab\sockd.log (110317/110317 bytes) transfer requested [JionLab@10.211.55.3]
+04/08/2016 14:24:50 19849 fcp2d cantaloop:/var/log/JionLab/fcp2/sockd.log -> TERRYmac:C:\Users\terry\AppData\Local\Temp\JionLab\sockd.log (110317/110317 bytes) transfer completed (0.05 sec) [JionLab@10.211.55.3]

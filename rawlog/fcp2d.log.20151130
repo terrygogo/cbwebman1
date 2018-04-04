@@ -1,0 +1,12 @@
+11/30/2015 15:02:53 5073 Switched Log File
+11/30/2015 15:02:53 5075 fcp2d Starting
+11/30/2015 15:03:04 5075 fcp2d Aborted (socket bind error 98)
+11/30/2015 15:03:54 5551 fcp2d Starting
+11/30/2015 15:09:32 7626 fcp2d Starting
+11/30/2015 15:09:41 7724 fcp2d Starting
+11/30/2015 15:09:42 7626 fcp2d Aborted (socket bind error 98)
+11/30/2015 15:09:44 7774 fcp2d Starting
+11/30/2015 15:09:51 7724 fcp2d Aborted (socket bind error 98)
+11/30/2015 15:09:54 7774 fcp2d Aborted (socket bind error 98)
+11/30/2015 15:10:44 8453 fcp2d Starting
+11/30/2015 15:11:05 8453 fcp2d Killed

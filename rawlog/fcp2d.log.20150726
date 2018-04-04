@@ -1,0 +1,75 @@
+07/26/2015 14:40:25 11158 Switched Log File
+07/26/2015 14:40:26 15585 fcp2d Child Aborted (54: TERRYmac: force list is not allowed)
+07/26/2015 14:40:30 15611 fcp2d Child Aborted (56: TERRYmac: force list is not allowed)
+07/26/2015 14:40:33 15633 fcp2d Child Aborted (58: TERRYmac: force list is not allowed)
+07/26/2015 14:40:39 15665 fcp2d Child Aborted (60: TERRYmac: force list is not allowed)
+07/26/2015 14:40:41 15685 fcp2d Child Aborted (62: TERRYmac: force list is not allowed)
+07/26/2015 14:40:47 15723 fcp2d Child Aborted (0: TERRYmac: force list is not allowed)
+07/26/2015 14:40:57 15791 fcp2d Child Aborted (2: TERRYmac: force list is not allowed)
+07/26/2015 14:54:14 11158 fcp2d Shutdowned
+07/26/2015 14:54:17 20777 fcp2d Starting
+07/26/2015 14:54:22 20824 fcp2d Child Aborted (1: TERRYmac: force list is not allowed)
+07/26/2015 14:54:29 20868 fcp2d Child Aborted (3: TERRYmac: force list is not allowed)
+07/26/2015 14:54:32 20888 fcp2d Child Aborted (5: TERRYmac: force list is not allowed)
+07/26/2015 14:56:07 21468 fcp2d Child Aborted (7: TERRYmac: force list is not allowed)
+07/26/2015 14:56:10 21488 fcp2d Child Aborted (9: TERRYmac: force list is not allowed)
+07/26/2015 14:56:13 21508 fcp2d Child Aborted (11: TERRYmac: force list is not allowed)
+07/26/2015 15:01:07 20777 fcp2d Shutdowned
+07/26/2015 15:06:45 24802 fcp2d Starting
+07/26/2015 15:07:39 25134 fcp2d Child Aborted (1: TERRYmac: force list is not allowed)
+07/26/2015 15:07:42 25154 fcp2d Child Aborted (3: TERRYmac: force list is not allowed)
+07/26/2015 15:11:38 24802 fcp2d Shutdowned
+07/26/2015 15:11:55 26712 fcp2d Starting
+07/26/2015 15:12:01 26761 fcp2d Child Aborted (1: TERRYmac: force list is not allowed)
+07/26/2015 15:12:29 26712 fcp2d Shutdowned
+07/26/2015 15:12:33 26993 fcp2d Starting
+07/26/2015 15:12:38 27036 fcp2d Child Aborted (1: TERRYmac: force list is not allowed)
+07/26/2015 15:15:45 28188 fcp2d Child Aborted (3: TERRYmac: force list is not allowed)
+07/26/2015 15:23:41 26993 fcp2d Shutdowned
+07/26/2015 15:23:44 31126 fcp2d Starting
+07/26/2015 15:23:49 31165 fcp2d Child Aborted (1: TERRYmac: force list is not allowed)
+07/26/2015 15:23:51 31179 fcp2d Child Aborted (3: TERRYmac: force list is not allowed)
+07/26/2015 15:27:09 31126 fcp2d Shutdowned
+07/26/2015 15:27:11 32452 fcp2d Starting
+07/26/2015 15:27:21 32526 fcp2d Child Aborted (1: TERRYmac: force list is not allowed)
+07/26/2015 15:32:03 32452 fcp2d Shutdowned
+07/26/2015 15:32:08 1918 fcp2d Starting
+07/26/2015 15:32:21 2012 fcp2d TERRYmac:C:\Users\terry\Desktop\desktop.ini -> cantaloop:/home/DATA/user01/desktop.ini (282/282 bytes) transfer requested [user01@10.211.55.3]
+07/26/2015 15:32:21 2012 fcp2d TERRYmac:C:\Users\terry\Desktop\desktop.ini -> cantaloop:/home/DATA/user01/desktop.ini (282/282 bytes) transfer completed (0.00 sec) [user01@10.211.55.3]
+07/26/2015 15:32:55 2222 fcp2d cantaloop:/home/DATA/user01//passwd -> TERRYmac:C:\Users\terry\Desktop\passwd (141/141 bytes) transfer requested [user01@10.211.55.3]
+07/26/2015 15:32:55 2222 fcp2d cantaloop:/home/DATA/user01//passwd -> TERRYmac:C:\Users\terry\Desktop\passwd (141/141 bytes) transfer completed (0.00 sec) [user01@10.211.55.3]
+07/26/2015 15:32:58 2244 fcp2d cantaloop:/home/DATA/user01//passwd -> TERRYmac:C:\Users\terry\Desktop\passwd (141/141 bytes) transfer requested [user01@10.211.55.3]
+07/26/2015 15:32:58 2244 fcp2d cantaloop:/home/DATA/user01//passwd -> TERRYmac:C:\Users\terry\Desktop\passwd (141/141 bytes) transfer completed (0.00 sec) [user01@10.211.55.3]
+07/26/2015 15:33:02 2270 fcp2d TERRYmac:C:\Users\terry\Desktop\보안성 강화를 위한 물리적 망분리 검토 (2015.07).pdf -> cantaloop:/home/DATA/user01/보안성 강화를 위한 물리적 망분리 검토 (2015.07).pdf (2177140/2177140 bytes) transfer requested [user01@10.211.55.3]
+07/26/2015 15:33:02 2270 fcp2d TERRYmac:C:\Users\terry\Desktop\보안성 강화를 위한 물리적 망분리 검토 (2015.07).pdf -> cantaloop:/home/DATA/user01/보안성 강화를 위한 물리적 망분리 검토 (2015.07).pdf (2177140/2177140 bytes) transfer completed (0.09 sec) [user01@10.211.55.3]
+07/26/2015 15:34:48 1918 fcp2d Shutdowned
+07/26/2015 15:34:52 2988 fcp2d Starting
+07/26/2015 15:34:59 3046 fcp2d Child Aborted (2: cantaloop:/home/DATA/user01/: list directory error)
+07/26/2015 15:35:03 3072 fcp2d Child Aborted (4: cantaloop:/home/DATA/user01/: list directory error)
+07/26/2015 15:35:25 3200 fcp2d Child Aborted (6: cantaloop:/home/DATA/user01/: list directory error)
+07/26/2015 15:35:27 3220 fcp2d Child Aborted (8: cantaloop:/home/DATA/user01/: list directory error)
+07/26/2015 15:35:55 3399 fcp2d Child Aborted (10: cantaloop:/home/DATA/admin`/: list directory error)
+07/26/2015 15:35:58 3417 fcp2d Child Aborted (12: cantaloop:/home/DATA/admin`/: list directory error)
+07/26/2015 15:37:24 3939 fcp2d Child Aborted (14: cantaloop:/home/DATA/user01`/: list directory error)
+07/26/2015 15:37:37 4015 fcp2d Child Aborted (16: cantaloop:/home/DATA/user01`/: list directory error)
+07/26/2015 15:37:42 4053 fcp2d Child Aborted (18: cantaloop:/home/DATA/user01`/: list directory error)
+07/26/2015 15:38:01 4169 fcp2d Child Aborted (20: cantaloop:///user01`/: list directory error)
+07/26/2015 15:38:08 4214 fcp2d Child Aborted (21: stat read error 104)
+07/26/2015 15:39:23 4670 fcp2d Child Aborted (23: cantaloop:/var/log//user01`/: list directory error)
+07/26/2015 15:39:25 4684 fcp2d Child Aborted (25: cantaloop:/var/log//user01`/: list directory error)
+07/26/2015 15:40:38 5130 fcp2d Child Aborted (27: cantaloop:/var/log//user01`/: list directory error)
+07/26/2015 15:40:40 5150 fcp2d Child Aborted (29: cantaloop:/var/log//user01`/: list directory error)
+07/26/2015 15:41:14 5370 fcp2d Child Aborted (31: cantaloop:/var/log//JionLab/: list directory error)
+07/26/2015 15:41:16 5386 fcp2d Child Aborted (33: cantaloop:/var/log//JionLab/: list directory error)
+07/26/2015 15:41:30 5470 fcp2d Child Aborted (35: cantaloop:/var/log//JionLab/: list directory error)
+07/26/2015 15:41:41 5540 fcp2d Child Aborted (37: cantaloop:/var/log/JionLab/: list directory error)
+07/26/2015 15:41:44 5558 fcp2d Child Aborted (39: cantaloop:/var/log/JionLab/: list directory error)
+07/26/2015 15:42:50 5963 fcp2d Child Aborted (41: cantaloop:/var/log/JionLab/: list directory error)
+07/26/2015 15:43:47 2988 fcp2d Shutdowned
+07/26/2015 15:43:53 6381 fcp2d Starting
+07/26/2015 15:51:10 6381 fcp2d Shutdowned
+07/26/2015 15:51:12 9114 fcp2d Starting
+07/26/2015 15:51:18 9159 fcp2d Child Aborted (1: cantaloop:/var/log/JionLab/fcp2log/: file doesn't exist)
+07/26/2015 15:51:21 9179 fcp2d Child Aborted (3: cantaloop:/var/log/JionLab/fcp2log/: file doesn't exist)
+07/26/2015 15:52:34 9114 fcp2d Shutdowned
+07/26/2015 15:52:38 9688 fcp2d Starting

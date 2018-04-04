@@ -1,0 +1,14 @@
+03/28/2016 18:29:13 1970 Switched Log File
+03/28/2016 18:29:13 1972 fcp2d Starting
+03/28/2016 18:35:12 1972 fcp2d Shutdowned
+03/28/2016 18:35:17 4462 fcp2d Starting
+03/28/2016 18:46:33 8637 fcp2d Child Aborted (0: cantaloop:/var/log/JionLab/fcp2/fbrdg_nat.conf: file doesn't exist)
+03/28/2016 18:46:36 8657 fcp2d cantaloop:/var/log/JionLab/fcp2/sockd.log -> TERRYmac:C:\Users\terry\AppData\Local\Temp\JionLab\sockd.log (110317/110317 bytes) transfer requested [JionLab@10.211.55.3]
+03/28/2016 18:46:36 8657 fcp2d cantaloop:/var/log/JionLab/fcp2/sockd.log -> TERRYmac:C:\Users\terry\AppData\Local\Temp\JionLab\sockd.log (110317/110317 bytes) transfer completed (0.01 sec) [JionLab@10.211.55.3]
+03/28/2016 18:47:33 9003 fcp2d cantaloop:/var/log/JionLab/fcp2/sockd.log -> TERRYmac:C:\Users\terry\AppData\Local\Temp\JionLab\sockd.log (110317/110317 bytes) transfer requested [JionLab@10.211.55.3]
+03/28/2016 18:47:33 9003 fcp2d cantaloop:/var/log/JionLab/fcp2/sockd.log -> TERRYmac:C:\Users\terry\AppData\Local\Temp\JionLab\sockd.log (110317/110317 bytes) transfer completed (0.01 sec) [JionLab@10.211.55.3]
+03/28/2016 19:20:54 21482 fcp2d cantaloop:/var/log/JionLab/fcp2/fcp2d.perf -> TERRYmac:C:\Users\terry\AppData\Local\Temp\JionLab\fcp2d.perf (3380/3380 bytes) transfer requested [JionLab@10.211.55.3]
+03/28/2016 19:20:54 21482 fcp2d cantaloop:/var/log/JionLab/fcp2/fcp2d.perf -> TERRYmac:C:\Users\terry\AppData\Local\Temp\JionLab\fcp2d.perf (3380/3380 bytes) transfer completed (0.00 sec) [JionLab@10.211.55.3]
+03/28/2016 19:21:51 21834 fcp2d cantaloop:/var/log/JionLab/fcp2/fcp2d.perf.20150923 -> TERRYmac:C:\Users\terry\AppData\Local\Temp\JionLab\fcp2d.perf.20150923 (59540/59540 bytes) transfer requested [JionLab@10.211.55.3]
+03/28/2016 19:21:51 21834 fcp2d cantaloop:/var/log/JionLab/fcp2/fcp2d.perf.20150923 -> TERRYmac:C:\Users\terry\AppData\Local\Temp\JionLab\fcp2d.perf.20150923 (59540/59540 bytes) transfer completed (0.01 sec) [JionLab@10.211.55.3]
+03/28/2016 19:23:34 22471 fcp2d Child Aborted (6: cantaloop:/var/log/JionLab/fcp2/fbrdg_nat.conf: file doesn't exist)

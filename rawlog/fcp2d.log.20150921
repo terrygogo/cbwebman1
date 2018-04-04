@@ -1,0 +1,5 @@
+09/21/2015 19:28:19 1811 Switched Log File
+09/21/2015 19:28:20 20414 fcp2d cantaloop:/var/log/JionLab/fcp2//nmon_ia64 -> TERRYmac:C:\Users\terry\Downloads\ObjectListViewFull-2.8.1\getting-started\examples\LogBrowser\bin\Debug\nmon_ia64 (394864/394864 bytes) transfer requested [JionLab@10.211.55.3]
+09/21/2015 19:28:20 20414 fcp2d cantaloop:/var/log/JionLab/fcp2//nmon_ia64 -> TERRYmac:C:\Users\terry\Downloads\ObjectListViewFull-2.8.1\getting-started\examples\LogBrowser\bin\Debug\nmon_ia64 (394864/394864 bytes) transfer completed (0.02 sec) [JionLab@10.211.55.3]
+09/21/2015 19:28:41 20540 fcp2d cantaloop:/var/log/JionLab/fcp2//fcp2d.log.20150730 -> TERRYmac:C:\Users\terry\Downloads\ObjectListViewFull-2.8.1\getting-started\examples\LogBrowser\bin\Debug\fcp2d.log.20150730 (2059159/2059159 bytes) transfer requested [JionLab@10.211.55.3]
+09/21/2015 19:28:41 20540 fcp2d cantaloop:/var/log/JionLab/fcp2//fcp2d.log.20150730 -> TERRYmac:C:\Users\terry\Downloads\ObjectListViewFull-2.8.1\getting-started\examples\LogBrowser\bin\Debug\fcp2d.log.20150730 (2059159/2059159 bytes) transfer completed (0.08 sec) [JionLab@10.211.55.3]

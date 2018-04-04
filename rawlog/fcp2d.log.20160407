@@ -1,0 +1,4 @@
+04/07/2016 19:13:21 18736 Switched Log File
+04/07/2016 19:13:21 18738 fcp2d Starting
+04/07/2016 19:13:26 18782 fcp2d cantaloop:/var/log/JionLab/fcp2/fcp2d.perf -> TERRYmac:C:\Users\terry\AppData\Local\Temp\JionLab\fcp2d.perf (1716/1716 bytes) transfer requested [JionLab@10.211.55.3]
+04/07/2016 19:13:26 18782 fcp2d cantaloop:/var/log/JionLab/fcp2/fcp2d.perf -> TERRYmac:C:\Users\terry\AppData\Local\Temp\JionLab\fcp2d.perf (1716/1716 bytes) transfer completed (0.01 sec) [JionLab@10.211.55.3]

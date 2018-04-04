@@ -1,0 +1,32 @@
+04/12/2016 00:23:40 18738 Switched Log File
+04/12/2016 00:23:40 24501 fcp2d Child Aborted (18: cantaloop:/var/log/JionLab/fcp2/fbrdg_nat.conf: file doesn't exist)
+04/12/2016 01:02:59 594 fcp2d cantaloop:/var/log/JionLab/fcp2/sockd.log -> TERRYmac:C:\Users\terry\AppData\Local\Temp\JionLab\sockd.log (110317/110317 bytes) transfer requested [JionLab@10.211.55.3]
+04/12/2016 01:02:59 594 fcp2d cantaloop:/var/log/JionLab/fcp2/sockd.log -> TERRYmac:C:\Users\terry\AppData\Local\Temp\JionLab\sockd.log (110317/110317 bytes) transfer completed (0.04 sec) [JionLab@10.211.55.3]
+04/12/2016 01:03:16 699 fcp2d cantaloop:/var/log/JionLab/fcp2/fcp2d.perf -> TERRYmac:C:\Users\terry\AppData\Local\Temp\JionLab\fcp2d.perf (1560/1560 bytes) transfer requested [JionLab@10.211.55.3]
+04/12/2016 01:03:16 699 fcp2d cantaloop:/var/log/JionLab/fcp2/fcp2d.perf -> TERRYmac:C:\Users\terry\AppData\Local\Temp\JionLab\fcp2d.perf (1560/1560 bytes) transfer completed (0.00 sec) [JionLab@10.211.55.3]
+04/12/2016 01:28:34 10084 fcp2d cantaloop:/var/log/JionLab/fcp2/sockd.log -> TERRYmac:C:\Users\terry\AppData\Local\Temp\JionLab\sockd.log (110317/110317 bytes) transfer requested [JionLab@10.211.55.3]
+04/12/2016 01:28:34 10084 fcp2d cantaloop:/var/log/JionLab/fcp2/sockd.log -> TERRYmac:C:\Users\terry\AppData\Local\Temp\JionLab\sockd.log (110317/110317 bytes) transfer completed (0.01 sec) [JionLab@10.211.55.3]
+04/12/2016 11:06:04 10202 fcp2d Child Aborted (22: cantaloop:/var/log/JionLab/fcp2/fbrdg_nat.conf: file doesn't exist)
+04/12/2016 13:25:51 6973 fcp2d cantaloop:/var/log/JionLab/fcp2/fcp2d.perf -> TERRYmac:C:\Users\terry\AppData\Local\Temp\JionLab\fcp2d.perf (12935/12935 bytes) transfer requested [JionLab@10.211.55.3]
+04/12/2016 13:25:51 6973 fcp2d cantaloop:/var/log/JionLab/fcp2/fcp2d.perf -> TERRYmac:C:\Users\terry\AppData\Local\Temp\JionLab\fcp2d.perf (12935/12935 bytes) transfer completed (0.00 sec) [JionLab@10.211.55.3]
+04/12/2016 13:25:54 6994 fcp2d Child Aborted (24: cantaloop:/var/log/JionLab/fcp2/fbrdg: file doesn't exist)
+04/12/2016 13:26:34 7231 fcp2d Child Aborted (25: cantaloop:/var/log/JionLab/fcp2/: file type is not regular)
+04/12/2016 13:26:41 7279 fcp2d cantaloop:/var/log/JionLab/fcp2/fcp2d.perf -> TERRYmac:C:\Users\terry\AppData\Local\Temp\JionLab\fcp2d.perf (13000/13000 bytes) transfer requested [JionLab@10.211.55.3]
+04/12/2016 13:26:41 7279 fcp2d cantaloop:/var/log/JionLab/fcp2/fcp2d.perf -> TERRYmac:C:\Users\terry\AppData\Local\Temp\JionLab\fcp2d.perf (13000/13000 bytes) transfer completed (0.02 sec) [JionLab@10.211.55.3]
+04/12/2016 13:26:45 7299 fcp2d Child Aborted (27: cantaloop:/var/log/JionLab/fcp2/fbrdg: file doesn't exist)
+04/12/2016 13:27:00 7396 fcp2d Child Aborted (28: cantaloop:/var/log/JionLab/fcp2/: file type is not regular)
+04/12/2016 13:27:05 7427 fcp2d cantaloop:/var/log/JionLab/fcp2/sockd.log -> TERRYmac:C:\Users\terry\AppData\Local\Temp\JionLab\sockd.log (110317/110317 bytes) transfer requested [JionLab@10.211.55.3]
+04/12/2016 13:27:05 7427 fcp2d cantaloop:/var/log/JionLab/fcp2/sockd.log -> TERRYmac:C:\Users\terry\AppData\Local\Temp\JionLab\sockd.log (110317/110317 bytes) transfer completed (0.01 sec) [JionLab@10.211.55.3]
+04/12/2016 14:20:03 26787 fcp2d cantaloop:/var/log/JionLab/fcp2/fcp2d.perf -> TERRYmac:C:\Users\terry\AppData\Local\Temp\JionLab\fcp2d.perf (16445/16445 bytes) transfer requested [JionLab@10.211.55.3]
+04/12/2016 14:20:03 26787 fcp2d cantaloop:/var/log/JionLab/fcp2/fcp2d.perf -> TERRYmac:C:\Users\terry\AppData\Local\Temp\JionLab\fcp2d.perf (16445/16445 bytes) transfer completed (0.01 sec) [JionLab@10.211.55.3]
+04/12/2016 14:20:29 26942 fcp2d Child Aborted (31: cantaloop:/var/log/JionLab/fcp2/fbrdg: file doesn't exist)
+04/12/2016 14:20:37 26991 fcp2d Child Aborted (32: cantaloop:/var/log/JionLab/fcp2/: file type is not regular)
+04/12/2016 14:20:48 27052 fcp2d cantaloop:/var/log/JionLab/fcp2/fcp2d.perf -> TERRYmac:C:\Users\terry\AppData\Local\Temp\JionLab\fcp2d.perf (16510/16510 bytes) transfer requested [JionLab@10.211.55.3]
+04/12/2016 14:20:48 27052 fcp2d cantaloop:/var/log/JionLab/fcp2/fcp2d.perf -> TERRYmac:C:\Users\terry\AppData\Local\Temp\JionLab\fcp2d.perf (16510/16510 bytes) transfer completed (0.01 sec) [JionLab@10.211.55.3]
+04/12/2016 14:21:07 27179 fcp2d Child Aborted (34: cantaloop:/var/log/JionLab/fcp2/fbrdg: file doesn't exist)
+04/12/2016 14:49:29 5207 fcp2d cantaloop:/var/log/JionLab/fcp2/fcp2d.perf -> TERRYmac:C:\Users\terry\AppData\Local\Temp\JionLab\fcp2d.perf (18395/18395 bytes) transfer requested [JionLab@10.211.55.3]
+04/12/2016 14:49:29 5207 fcp2d cantaloop:/var/log/JionLab/fcp2/fcp2d.perf -> TERRYmac:C:\Users\terry\AppData\Local\Temp\JionLab\fcp2d.perf (18395/18395 bytes) transfer completed (0.00 sec) [JionLab@10.211.55.3]
+04/12/2016 14:49:37 5258 fcp2d Child Aborted (36: cantaloop:/var/log/JionLab/fcp2/fbrdg: file doesn't exist)
+04/12/2016 14:49:43 5295 fcp2d Child Aborted (37: cantaloop:/var/log/JionLab/fcp2//fbrdg/: file doesn't exist)
+04/12/2016 14:49:51 5338 fcp2d cantaloop:/var/log/JionLab/fcp2/fcp2d.perf -> TERRYmac:C:\Users\terry\AppData\Local\Temp\JionLab\fcp2d.perf (18395/18395 bytes) transfer requested [JionLab@10.211.55.3]
+04/12/2016 14:49:51 5338 fcp2d cantaloop:/var/log/JionLab/fcp2/fcp2d.perf -> TERRYmac:C:\Users\terry\AppData\Local\Temp\JionLab\fcp2d.perf (18395/18395 bytes) transfer completed (0.00 sec) [JionLab@10.211.55.3]
